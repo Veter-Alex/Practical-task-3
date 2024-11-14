@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Резервирования воздушного пространства.</title>
+        <link rel="stylesheet" href="/static/css/style.css" />
+    </head>
+    <body>
+        <div id="header">
+            <h1>
+                Главная страница приложение для отслеживания воздушных
+                резервирований.
+            </h1>
+            <!-- Панель навигации в зависимости от имени пользователя -->
+            <nav>
+                <ul>
+                    <li><a href="/">Главная страница</a></li>
+                    <li><a href="/settings">Настройки</a></li>
+                    <li><a href="/help">Помощь</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div id="requests-settings">
+            <p>Настройки для запроса:</p>
+        </div>
+
+        <div id="notams-conteiner">
+            <p>Резервирования:</p>
+            <table id="notams-table">
+                <tr>
+                    <th>ЦУВД</th>
+                    <th>Резервирование</th>
+                    <th>Начало резервирования</th>
+                    <th>Конец резервирования</th>
+                    <th>Оригинальный текст</th>
+                </tr>
+            </table>
+        </div>
+
+        <script src="/static/js/scipt.js"></script>
+    </body>
+</html>

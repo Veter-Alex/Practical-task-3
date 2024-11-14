@@ -1,0 +1,121 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #808080;
+}
+
+#header {
+    /* background-color: #5e5d5d; */
+    margin: 0 1em;
+    padding: 1em;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin: 0 2em;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav a:active {
+    color: #0000ff;
+}
+
+/* Блок директорий и файлов */
+#requests-settings {
+    float: left;
+    margin: 0 0.5% 0 1%;
+    width: 30%;
+    max-width: 300px;
+    height: 100%;
+    min-height: 85vh;
+    border: 1px solid black;
+}
+
+#notams-conteiner {
+    float: left;
+    margin: 0 1% 0 0.5%;
+    width: 80%;
+    height: 85vh;
+    min-height: 85vh;
+    border: 1px solid black;
+}
+
+#notams-table {
+    border-collapse: collapse;
+    width: 100%;
+    /* height: 85vh; */
+    display: block;
+    overflow-y: auto;
+    max-height: calc(100% - 1em);
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 0px;
+    text-align: center;
+
+}
+
+th {
+    background-color: darkgray;
+    position: sticky;
+    top: -1px;
+    padding: 5px;
+}
+
+/* #notams-table tbody {
+    overflow-y: auto;
+    max-height: 150px; /* высота таблицы без первой строки */
+} */
+
+#CUVD {
+    width: 5%;
+    font-size: 0.9em;
+}
+
+#name-NOTAM {
+    width: 5%;
+}
+
+#start-NOTAM {
+    width: 10%;
+}
+
+#end-NOTAM {
+    width: 10%;
+}
+
+#text-NOTAM {
+    text-align: justify;
+    font-size: 0.7em;
+}

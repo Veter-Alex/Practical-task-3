@@ -1,0 +1,1140 @@
+2024-11-12 22:07:16 | INFO |variables:<module>:36: - Установлен режим парсинга файлов.
+
+2024-11-12 22:09:18 | INFO |variables:<module>:36: - Установлен режим парсинга файлов.
+
+2024-11-12 22:21:08 | INFO |variables:<module>:36: - Установлен режим парсинга файлов.
+
+2024-11-12 22:26:46 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:26:46 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:26:46 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:26:46 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:26:46 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:27:20 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:27:20 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:27:20 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:27:20 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:27:20 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:27:23 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:27:23 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:27:23 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:27:23 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:27:23 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:29:49 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-12 22:29:49 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-12 22:30:06 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-12 22:30:06 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-12 22:36:24 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:36:24 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:36:24 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:36:24 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:36:24 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:36:26 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:36:26 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:36:26 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:36:26 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:36:26 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:36:34 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 22:36:34 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 22:36:35 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:36:36 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 22:36:36 | ERROR |connect_operations:get_notams:37: - Error parsing the answer from the website with NOTAMs.
+Error: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-12 22:38:48 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:38:48 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:38:48 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:38:48 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:38:48 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:38:50 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:38:50 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:38:50 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:38:50 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:38:50 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:38:54 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 22:38:54 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 22:38:54 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:38:55 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:380: - Getting reservations for ID: MHTG
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:380: - Getting reservations for ID: KZDV
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:380: - Getting reservations for ID: KZLA
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:380: - Getting reservations for ID: KZOA
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:380: - Getting reservations for ID: KZAK
+2024-11-12 22:38:56 | INFO |parser_global:parser_notams_answer:403: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 22:58:53 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:58:53 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:58:53 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:58:53 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:58:53 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:58:56 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-12 22:58:56 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-12 22:58:56 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-12 22:58:56 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-12 22:58:56 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:58:56 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 22:58:56 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 22:58:56 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:58:57 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 22:58:57 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 22:59:02 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 22:59:02 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 22:59:02 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 22:59:04 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 22:59:04 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:00:42 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:00:42 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:00:42 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:00:43 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:00:43 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:01:45 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:01:45 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:01:45 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:01:47 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:01:47 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:03:50 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:03:50 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:03:50 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:03:50 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:03:51 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:04:48 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:04:48 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:04:48 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:04:49 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:04:49 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:05:00 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:05:00 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:05:00 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:05:00 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:05:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:05:31 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:05:31 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:05:31 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:05:32 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:05:32 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:06:16 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:06:16 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:06:16 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:06:17 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:06:17 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:06:42 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:06:42 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:06:42 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:06:43 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:06:43 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:06:51 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:06:51 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:06:51 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:06:52 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:06:52 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:06:59 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:06:59 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:06:59 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:07:00 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:07:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:07:11 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:07:11 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:07:11 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:07:12 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:07:12 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:10:23 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:10:23 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:10:23 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:10:24 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:10:24 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:11:53 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:11:53 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:11:53 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:11:54 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:11:54 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:12:05 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:12:05 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:12:05 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:12:06 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:12:06 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:12:13 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:12:13 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:12:13 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:12:13 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:12:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:12:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:12:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:12:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:12:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:12:14 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:13:16 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:13:16 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:13:16 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:13:17 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:13:17 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:15:11 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:15:11 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:15:11 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:15:12 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:15:12 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:15:39 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:15:39 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:15:39 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:15:40 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:15:40 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:17:19 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:17:19 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:17:19 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:17:20 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:17:20 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:18:03 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:18:03 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:18:03 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:18:04 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:18:04 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:18:32 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:18:32 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:18:32 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:18:34 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:18:34 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:18:43 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:18:43 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:18:43 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:18:44 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:18:44 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:19:44 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:19:44 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:19:44 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:19:45 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:19:45 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:19:59 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:19:59 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:19:59 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:20:00 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:20:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:21:24 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:21:24 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:21:24 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:21:25 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:21:25 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:21:25 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:21:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:21:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:21:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:21:26 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:28:10 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:28:10 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:28:10 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:28:11 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:28:11 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:28:43 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:28:43 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:28:43 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:28:45 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:28:45 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:29:16 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:29:16 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:29:16 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:29:17 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:29:17 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:29:46 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:29:46 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:29:46 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:29:48 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:29:48 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:30:30 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:30:30 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:30:30 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:30:31 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:30:31 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:31:05 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:31:05 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:31:05 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:31:06 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:31:06 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:36:30 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:36:30 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:36:30 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:36:31 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:36:31 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:37:23 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:37:23 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:37:23 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:37:23 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:37:24 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:45:46 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:45:47 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:45:47 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:45:48 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:45:48 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:50:09 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:50:09 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:50:09 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:50:10 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:50:11 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:50:50 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:50:50 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:50:50 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:50:51 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:50:51 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:51:26 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:51:26 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:51:26 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:51:27 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:51:27 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:52:58 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:52:58 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:52:58 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:52:59 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:52:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:52:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:52:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:52:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:52:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:53:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:54:54 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:54:54 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:54:54 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:54:55 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:54:55 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:55:04 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:55:04 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:55:04 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:55:05 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:55:05 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:56:31 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:56:31 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:56:31 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:56:32 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:56:32 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:59:30 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:59:30 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:59:30 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:59:31 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:59:31 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-12 23:59:43 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-12 23:59:43 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-12 23:59:43 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-12 23:59:43 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-12 23:59:43 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:01:38 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:01:38 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:01:38 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:01:39 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:01:39 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:01:53 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:01:53 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:01:53 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:01:53 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:01:53 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:02:02 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:02:02 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:02:02 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:02:03 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:02:03 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:02:16 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:02:16 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:02:16 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:02:17 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:02:17 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:04:44 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:04:44 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:04:44 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:04:45 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:04:45 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:04:53 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:04:53 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:04:53 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:04:54 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:04:54 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:05:11 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:05:11 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:05:11 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:05:13 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:05:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:05:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:05:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:05:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:05:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:05:14 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:05:21 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:05:21 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:05:21 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:05:23 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:05:23 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:05:53 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:05:53 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:05:53 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:05:54 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:05:54 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:06:28 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:06:28 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:06:28 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:06:30 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:06:30 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:06:41 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:06:41 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:06:41 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:06:42 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:06:42 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:07:06 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:07:06 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:07:06 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:07:07 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:07:07 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:07:29 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:07:29 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:07:29 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:07:30 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:07:30 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:09:52 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:09:52 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:09:52 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:09:53 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:09:53 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:10:08 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:10:08 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:10:08 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:10:09 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:10:09 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:10:39 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:10:39 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:10:39 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:10:40 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:10:40 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:10:53 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:10:53 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:10:53 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:10:54 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:10:54 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:11:19 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:11:19 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:11:19 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:11:20 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:11:20 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:11:59 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:11:59 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:11:59 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:12:00 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:12:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:15:07 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:15:07 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:15:07 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:15:08 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:15:08 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:15:36 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:15:36 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:15:36 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:15:37 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:15:38 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:16:10 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:16:10 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:16:10 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:16:11 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:16:11 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:17:25 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:17:25 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:17:25 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:17:26 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:17:26 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:17:57 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:17:57 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:17:57 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:17:58 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:17:58 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:18:57 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:18:57 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:18:57 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:18:58 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:18:58 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:20:11 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:20:11 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:20:11 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:20:12 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:20:12 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:27:48 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:27:48 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:27:48 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:27:49 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:27:49 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:28:10 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:28:10 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:28:10 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:28:11 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:28:11 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:28:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:28:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:28:12 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:28:12 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:28:25 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:28:25 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:28:25 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:28:26 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:28:26 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:28:57 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:28:57 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:28:57 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:28:58 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:28:58 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:29:55 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:29:55 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:29:55 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:29:55 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:29:56 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:30:05 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:30:05 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:30:05 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:30:06 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:30:06 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:30:13 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:30:13 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:30:13 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:30:13 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:30:13 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:30:20 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:30:20 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:30:20 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:30:21 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:30:21 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:31:16 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:31:16 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:31:16 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:31:18 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:31:18 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:32:17 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:32:17 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:32:17 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:32:17 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:32:18 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:32:36 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:32:36 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:32:36 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:32:36 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:32:37 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:33:08 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:33:08 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:33:08 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:33:09 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:33:09 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:35:11 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:35:11 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:35:11 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:35:12 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:35:13 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:36:45 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:36:45 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:36:45 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:36:47 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:36:47 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:37:02 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:37:02 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:37:02 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:37:02 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:37:02 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:37:32 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:37:32 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:37:32 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:37:33 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:37:33 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:40:59 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:40:59 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:40:59 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:41:00 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:41:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:41:58 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:41:58 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:41:58 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:41:59 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:41:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:41:59 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:42:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:42:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:42:00 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:42:00 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:42:13 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:42:13 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:42:13 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:42:14 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:42:14 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:42:37 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:42:37 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:42:37 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:42:38 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:42:38 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:42:49 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:42:49 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:42:49 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:42:50 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:42:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:42:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:42:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:42:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:42:51 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:42:51 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:43:06 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:43:06 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:43:06 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:43:06 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:43:06 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:43:19 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:43:19 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:43:19 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:43:19 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:43:19 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:43:19 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:43:19 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:43:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:43:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:43:20 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:43:29 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:43:29 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:43:29 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:43:30 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:43:30 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.
+2024-11-13 00:43:49 | INFO |file_operations:get_icao_list:40: - Путь к файлу с резервациями D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt. 
+Получение списка ЦУВД из файла ...
+2024-11-13 00:43:49 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-13 00:43:49 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-13 00:43:50 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-13 00:43:50 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 5 entries for analysis.

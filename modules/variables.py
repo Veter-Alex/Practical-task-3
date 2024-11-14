@@ -41,12 +41,6 @@ else:
 PATH_INPUT_FILES = getenv("PATH_INPUT_FILES")
 """ Входная директория с файлами, содержащими резервирования """
 
-PATH_TO_LOCAL_ICAO_LIST = pathlib.Path(
-    "D:\Programming\курсы\practic_BS\input_data\ICAO_mini.txt"
-)
-# "/home/alex/projects/notam-analyzer/services/parser_notams/tests/test_data/icao_list/ICAO.txt"
-""" Путь к фалу со списком ЦУВДов. """
-
 URL_REQUEST_HEADER = getenv("URL_REQUEST_HEADER")
 """ URL сайта с резервированиями. """
 if URL_REQUEST_HEADER is None:
@@ -74,27 +68,6 @@ COUNT_REQUEST_LIMIT = int(getenv("COUNT_REQUEST_LIMIT", "5"))
 
 SLEEP_TIME_REQUEST_NOTAMS = float(getenv("SLEEP_TIME_REQUEST_NOTAMS", "3"))
 """ Пауза в секундах между попытками выгрузки NOTAMS. """
-
-# ПЕРЕМЕННЫЕ ДЛЯ РАБОТЫ С БД
-TYPE_DB = getenv("TYPE_DB")
-""" Тип базы данных. """
-if TYPE_DB != "mongodb":
-    exit("Database type is not supported or not set")
-
-DATABASE_URL = getenv("DATABASE_URL")
-""" URL базы данных и порт. """
-if DATABASE_URL is None:
-    exit("DATABASE_URL is not set")
-
-DATABASE_NOTAMS_NAME = getenv("DATABASE_NOTAMS_NAME")
-""" Имя базы данных NOTAMS. """
-if DATABASE_NOTAMS_NAME is None:
-    exit("DATABASE_NOTAMS_NAME is not set")
-
-COLLECTION_NOTAMS = getenv("COLLECTION_NOTAMS", "")
-""" Коллекция базы данных mongo для NOTAMs. """
-if COLLECTION_NOTAMS == "":
-    exit("COLLECTION_NOTAMS is not set")
 
 # Паттерны REGEX
 REGEX_PERIOD = re.compile(
@@ -189,10 +162,6 @@ REGEX_ISSUED_FOR = re.compile(r"\(ISSUED FOR \w{,4} PART \d{1,2} OF \d{1,2}\)")
 
 re.compile(r"\\(ISSUED FOR \\w{,4} PART \\d{1,2} OF \\d{1,2}\\)")
 """
-
-logger.info(f"Тип базы данных:        {TYPE_DB}")
-logger.info(f"URL базы данных:         {DATABASE_URL}")
-logger.info(f"Имя базы данных NOTAMS: {DATABASE_NOTAMS_NAME}")
 
 logger.info(f"Адрес сайта для запросов: {URL_REQUEST_HEADER}")
 logger.debug(f"Лимит количества ЦУВДов для запроса:  {ARTCC_LIST_LIMIT}")

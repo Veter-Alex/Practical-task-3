@@ -50,40 +50,59 @@ nav a:active {
     color: #0000ff;
 }
 
-/* Блок директорий и файлов */
-#requests-settings {
+p { 
+    margin: 10px;
+}
+
+#requests-settings-conteiner {
     float: left;
-    margin: 0 0.5% 0 1%;
-    width: 30%;
-    max-width: 300px;
-    height: 100%;
-    min-height: 85vh;
-    border: 1px solid black;
+    padding: 0 10px;
+    margin: 0 10px;
+    width: 20%;
+    height: 85vh;
+    /* border: 1px solid black; */
+}
+
+#icao-codes-for-request {
+    display: block;
+    width: 85%;
+    height: 80%;
+    background-color: #a8a7a7;
+    padding: 20px;
+    text-align: justify;
+    resize: none;
+    overflow-y: scroll;
+    font-size: large;
+}
+
+#request-button {
+    display: block;
+    margin: 10px;
+    padding: 10px;
 }
 
 #notams-conteiner {
     float: left;
-    margin: 0 1% 0 0.5%;
-    width: 80%;
+    padding: 0 20px;
+    margin: 0 10px;
+    width: 70%;
     height: 85vh;
-    min-height: 85vh;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 #notams-table {
     border-collapse: collapse;
     width: 100%;
-    /* height: 85vh; */
     display: block;
     overflow-y: auto;
-    max-height: calc(100% - 1em);
+    max-height: calc(95% - 1em);
+    border: 1px solid black;
 }
 
 th, td {
     border: 1px solid black;
     padding: 0px;
     text-align: center;
-
 }
 
 th {
@@ -91,31 +110,76 @@ th {
     position: sticky;
     top: -1px;
     padding: 5px;
+    font-size: medium;
 }
-
-/* #notams-table tbody {
-    overflow-y: auto;
-    max-height: 150px; /* высота таблицы без первой строки */
-} */
 
 #CUVD {
     width: 5%;
-    font-size: 0.9em;
+    font-size: 1em;
+    padding: 5px;
 }
 
 #name-NOTAM {
     width: 5%;
+    font-size: 1em;
+    padding: 5px;
 }
 
 #start-NOTAM {
     width: 10%;
+    font-size: 1em;
+    padding: 5px;
 }
 
 #end-NOTAM {
     width: 10%;
+    font-size: 1em;
+    padding: 5px;
 }
 
 #text-NOTAM {
     text-align: justify;
     font-size: 0.7em;
+    padding: 5px;
 }
+
+#th-CUVD {
+    width: 5%;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#th-name-NOTAM {
+    width: 5%;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#th-start-NOTAM {
+    width: 10%;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#th-end-NOTAM {
+    width: 10%;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#th-text-NOTAM {
+    text-align: center;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#help-content {
+    font-size: large;
+    text-align: justify;
+    margin: 10px;
+}
+
+#help-content a {
+    text-decoration: none;
+    margin: 20px;
+}   

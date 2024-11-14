@@ -1,0 +1,1723 @@
+2024-11-14 17:49:00 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 17:49:00 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 17:49:00 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 17:49:00 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 17:49:00 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 17:49:02 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 17:49:02 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 17:49:02 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 17:49:02 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 17:49:02 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 17:49:33 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 17:49:33 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 17:49:37 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 17:49:37 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 17:58:48 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 17:58:48 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 17:58:50 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 17:58:50 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:04:00 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:04:00 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:04:00 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:04:00 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:04:00 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:04:02 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:04:02 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:04:02 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:04:02 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:04:02 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:04:05 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:04:05 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:11:29 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:11:29 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:12:55 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:12:55 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:13:24 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:13:24 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:13:40 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:13:40 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:14:20 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:14:20 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:14:48 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:14:48 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:14:49 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:14:49 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:14:59 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:14:59 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:15:14 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:15:14 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:15:40 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:15:40 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:16:06 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:16:06 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:16:20 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:16:20 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:16:49 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:16:49 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:16:56 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:16:56 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:17:41 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:17:41 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:17:54 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:17:54 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:18:12 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:18:12 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:19:26 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:19:26 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:19:50 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:19:50 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:20:01 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:20:01 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:20:10 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:20:10 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:20:21 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:20:21 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:21:05 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:21:05 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:21:24 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:21:25 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:21:59 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:21:59 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:22:07 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:22:07 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:22:13 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:22:13 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:23:07 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:23:07 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:23:44 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:23:44 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:24:01 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:24:01 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:24:18 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:24:18 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:24:27 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:24:27 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:24:47 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:24:47 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:24:56 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:24:56 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:25:12 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:25:12 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:26:42 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:26:42 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:27:06 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:27:06 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:27:29 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:27:29 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:27:45 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:27:45 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:27:53 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:27:53 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:28:00 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:28:00 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:28:22 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:28:22 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:28:50 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:28:50 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:29:00 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:29:00 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:29:16 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:29:16 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:29:28 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:29:28 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:29:38 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:29:38 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:29:50 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:29:50 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:31:41 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:31:41 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:32:39 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:32:39 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:33:11 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:33:11 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:33:12 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:33:12 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:33:33 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:33:33 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:34:25 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:34:25 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:35:05 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:35:05 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:35:35 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:35:35 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:35:43 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:35:43 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:36:12 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:36:12 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:38:00 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:38:00 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:38:31 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:38:31 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:38:52 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:38:52 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:39:31 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 18:39:31 | ERROR |connect_operations:get_notams:39: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 18:47:56 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:47:56 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:47:56 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:47:56 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:47:56 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:48:00 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:48:00 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:48:00 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:48:00 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:48:00 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:48:02 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:48:02 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:48:02 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:48:02 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:48:02 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:58:03 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:58:03 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:58:03 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:58:03 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:58:03 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 18:58:05 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 18:58:05 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 18:58:05 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 18:58:05 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 18:58:05 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 19:01:40 | INFO |file_operations:get_icao_list:57: - Получение списка ЦУВД из базы данных ...
+2024-11-14 19:01:40 | ERROR |connect_operations:get_notams:30: - Ошибка формирования заголовков для запросов. Ошибка чтения списка ЦУВД из базы данных.
+ Не реализовано считывание списка ЦУВД из базы данных.
+2024-11-14 19:01:51 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 19:01:51 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 19:01:51 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 19:01:51 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 19:01:51 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 19:03:49 | INFO |connect_operations:get_request_headers:97: - Сформированы заголовки для запросов.
+2024-11-14 19:04:11 | INFO |connect_operations:request_notams:117: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 19:04:13 | INFO |connect_operations:request_notams:156: - Ответ от сайта получен..
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: MHTG
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZDV
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLA
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOA
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAK
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZSE
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZMA
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZNY
+2024-11-14 19:04:20 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZOB
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZAU
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZFW
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZMP
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZTL
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:310: - Getting reservations for ID: KZLC
+2024-11-14 19:04:21 | INFO |parser_global:parser_notams_answer:333: - Parsing complete. Found 14 entries for analysis.
+2024-11-14 20:49:00 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 20:49:00 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 20:49:00 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 20:49:00 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 20:49:00 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:49:02 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 20:49:02 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 20:49:02 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 20:49:02 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 20:49:02 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:49:32 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:49:32 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:49:34 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 20:49:53 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдено 14 резервирований для анализа.
+2024-11-14 20:51:04 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:51:04 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:51:05 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:51:10 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдено 0 резервирований для анализа.
+2024-11-14 20:52:03 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:52:03 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:52:04 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:52:16 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдено 0 резервирований для анализа.
+2024-11-14 20:53:14 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:53:14 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:53:15 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 20:53:19 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 20:53:20 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдено 14 резервирований для анализа.
+2024-11-14 20:54:07 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:54:07 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:54:09 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 20:54:11 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдено 14 резервирований для анализа.
+2024-11-14 20:55:38 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 20:55:38 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 20:55:38 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 20:55:38 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 20:55:38 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:55:58 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:55:58 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:55:59 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 20:56:02 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 5 кодов ИКАО.
+2024-11-14 20:56:34 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:56:34 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:56:35 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:56:37 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 0 кодов ИКАО.
+2024-11-14 20:58:51 | INFO |connect_operations:get_request_headers:96: - Сформированы заголовки для запросов.
+2024-11-14 20:58:51 | INFO |connect_operations:request_notams:116: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 20:58:51 | INFO |connect_operations:request_notams:155: - Ответ от сайта получен..
+2024-11-14 20:58:51 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 0 кодов ИКАО.
+2024-11-14 21:00:06 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:00:06 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:00:06 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:00:06 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:00:06 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:00:08 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:00:08 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:00:08 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:00:08 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:00:08 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:04:48 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 21:04:48 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:07:31 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:07:31 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:07:31 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:07:31 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:07:31 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:07:33 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:07:33 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:07:33 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:07:33 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:07:33 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:08:58 | INFO |connect_operations:get_request_headers:104: - Сформированы заголовки для запросов.
+2024-11-14 21:08:58 | INFO |connect_operations:request_notams:124: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:09:02 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:09:02 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:09:02 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:09:02 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:09:02 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:11:07 | INFO |connect_operations:get_request_headers:105: - Сформированы заголовки для запросов.
+2024-11-14 21:11:07 | INFO |connect_operations:request_notams:125: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:11:09 | INFO |connect_operations:request_notams:164: - Ответ от сайта получен..
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 21:11:14 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 21:11:15 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 31 кодов ИКАО.
+2024-11-14 21:11:22 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:11:22 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:11:22 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:11:22 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:11:22 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:15:09 | INFO |connect_operations:get_request_headers:105: - Сформированы заголовки для запросов.
+2024-11-14 21:15:09 | INFO |connect_operations:get_request_headers:105: - Сформированы заголовки для запросов.
+2024-11-14 21:15:09 | INFO |connect_operations:request_notams:125: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:15:09 | INFO |connect_operations:request_notams:125: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:15:57 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:15:57 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:15:57 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:15:57 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:15:57 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:16:00 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:16:00 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:16:00 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:16:00 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:16:00 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:16:15 | ERROR |connect_operations:get_notams:29: - Ошибка формирования заголовков для запросов. 'list' object has no attribute 'split'
+2024-11-14 21:23:52 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:23:52 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:23:52 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:23:52 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:23:52 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:24:12 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:24:12 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:24:12 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:24:12 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:24:12 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:24:14 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:24:14 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:24:14 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:24:14 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:24:14 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:24:34 | ERROR |connect_operations:get_notams:29: - Ошибка формирования заголовков для запросов. 'list' object has no attribute 'split'
+2024-11-14 21:25:11 | ERROR |connect_operations:get_notams:29: - Ошибка формирования заголовков для запросов. 'list' object has no attribute 'split'
+2024-11-14 21:27:49 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:27:49 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:27:49 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:27:49 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:27:49 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:30:09 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-14 21:30:09 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:30:21 | ERROR |connect_operations:get_notams:29: -  Ошибка: HTTPSConnectionPool(host='www.notams.faa.gov', port=443): Max retries exceeded with url: /dinsQueryWeb/queryRetrievalMapAction.do (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000208C6DC81A0>: Failed to resolve 'www.notams.faa.gov' ([Errno 11001] getaddrinfo failed)"))
+2024-11-14 21:30:24 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:30:24 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:30:24 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:30:24 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:30:24 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:31:14 | INFO |connect_operations:get_request_headers:106: - Сформированы заголовки для запросов.
+2024-11-14 21:31:14 | INFO |connect_operations:request_notams:126: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:31:23 | INFO |connect_operations:request_notams:165: - Ответ от сайта получен..
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 21:31:23 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 13 кодов ИКАО.
+2024-11-14 21:31:38 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:31:38 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:31:38 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:31:38 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:31:38 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:32:13 | INFO |connect_operations:get_request_headers:102: - Сформированы заголовки для запросов.
+2024-11-14 21:32:13 | INFO |connect_operations:request_notams:122: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:32:17 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:32:17 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:32:17 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:32:17 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:32:17 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:36:51 | INFO |connect_operations:get_request_headers:102: - Сформированы заголовки для запросов.
+2024-11-14 21:36:51 | INFO |connect_operations:request_notams:122: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:39:35 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:39:35 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:39:35 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:39:35 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:39:35 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:39:38 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:39:38 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:39:38 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:39:38 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:39:38 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:40:26 | INFO |connect_operations:get_request_headers:102: - Сформированы заголовки для запросов.
+2024-11-14 21:40:26 | INFO |connect_operations:request_notams:122: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:41:34 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:41:34 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:41:34 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:41:34 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:41:34 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:41:36 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 21:41:36 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 21:41:36 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 21:41:36 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 21:41:36 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:42:30 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 21:42:58 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:43:00 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 21:43:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 21:43:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 21:43:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 21:43:09 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZWUQ
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKPY
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKKP
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZGZU
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZUXC
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZJSA
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKRR
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RPHI
+2024-11-14 21:43:10 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFRR
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OJAC
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LGGG
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LZBB
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAD
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KLSV
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSZL
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAB
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDYS
+2024-11-14 21:43:11 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 48 кодов ИКАО.
+2024-11-14 21:43:24 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:43:26 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 21:43:31 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KRCA
+2024-11-14 21:43:31 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBAA
+2024-11-14 21:43:31 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBBB
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBYN
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBPE
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZSHA
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZHWH
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZPKM
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZLHW
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPO
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECM
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EINN
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EICK
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRK
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIKF
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BGBW
+2024-11-14 21:43:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RJJJ
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: FIMM
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YMMM
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMF
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMM
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VECF
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VABF
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HCSM
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OIIX
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OPKR
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SOOO
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KGFA
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBFI
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KCOF
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEDW
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEFD
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMCF
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LDZO
+2024-11-14 21:43:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KICZ
+2024-11-14 21:43:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MUFH
+2024-11-14 21:43:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MYNA
+2024-11-14 21:43:34 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 37 кодов ИКАО.
+2024-11-14 21:44:28 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:44:30 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWAL
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWHP
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWRB
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAEI
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KPAM
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNQX
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSHV
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PADQ
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LSAS
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LOVV
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBGL
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNID
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECB
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFMM
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIRR
+2024-11-14 21:44:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIBB
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OBBI
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OOMM
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYT
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NZZO
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAO
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBRE
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAZ
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SCIZ
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFO
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GOOO
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NTTT
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZWY
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PMDY
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGVA
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZEG
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYR
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 21:44:34 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 34 кодов ИКАО.
+2024-11-14 21:44:38 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:44:40 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EFIN
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLOV
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ESAA
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EKDK
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFFF
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFBB
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPC
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GMMM
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLLL
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OEJD
+2024-11-14 21:44:47 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAA
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UGGG
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LBSR
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKFV
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LJLA
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVBG
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMIB
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KOFF
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRD
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGGX
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGPX
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MPZL
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZHU
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MKJK
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TNCF
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFR
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQX
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQM
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EBBU
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EDGG
+2024-11-14 21:44:48 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EPWW
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGTT
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOR
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EYVL
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EETT
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EVRR
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LWSS
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOB
+2024-11-14 21:44:49 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 43 кодов ИКАО.
+2024-11-14 21:44:56 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 21:44:57 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ORBB
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIMM
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNHK
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OLBB
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLBG
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLHA
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAC
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAG
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAU
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBA
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPPH
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPAD
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSCB
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSSY
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 21:45:01 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 16 кодов ИКАО.
+2024-11-14 22:16:34 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 22:16:34 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 22:16:34 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 22:16:34 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 22:16:34 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:16:37 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 22:16:37 | INFO |variables:<module>:193: - Тип базы данных:        mongodb
+2024-11-14 22:16:37 | INFO |variables:<module>:194: - URL базы данных:         mongodb://localhost:27017/
+2024-11-14 22:16:37 | INFO |variables:<module>:195: - Имя базы данных NOTAMS: NOTAMS_ANALYZER
+2024-11-14 22:16:37 | INFO |variables:<module>:197: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:27:19 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:27:21 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:27:22 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:27:24 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 0 кодов ИКАО.
+2024-11-14 22:27:35 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:27:35 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:27:36 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:27:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 22:27:36 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 1 кодов ИКАО.
+2024-11-14 22:35:11 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:35:11 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:35:12 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:35:12 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 0 кодов ИКАО.
+2024-11-14 22:35:32 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:35:32 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:35:33 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:35:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYCD
+2024-11-14 22:35:33 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 1 кодов ИКАО.
+2024-11-14 22:38:20 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:38:20 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:38:22 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:38:23 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZWUQ
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKPY
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKKP
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZGZU
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZUXC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZJSA
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKRR
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RPHI
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFRR
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OJAC
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LGGG
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LZBB
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAD
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KLSV
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSZL
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAB
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDYS
+2024-11-14 22:38:24 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 48 кодов ИКАО.
+2024-11-14 22:38:24 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:38:26 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KRCA
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBAA
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBBB
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBYN
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBPE
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZSHA
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZHWH
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZPKM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZLHW
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPO
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EINN
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EICK
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRK
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIKF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BGBW
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RJJJ
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: FIMM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YMMM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VECF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VABF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HCSM
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OIIX
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OPKR
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SOOO
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KGFA
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBFI
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KCOF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEDW
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEFD
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMCF
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LDZO
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KICZ
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MUFH
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MYNA
+2024-11-14 22:38:27 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 37 кодов ИКАО.
+2024-11-14 22:38:27 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:38:29 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWAL
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWHP
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWRB
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAEI
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KPAM
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNQX
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSHV
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PADQ
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LSAS
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LOVV
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBGL
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNID
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECB
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFMM
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIRR
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIBB
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OBBI
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OOMM
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYT
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NZZO
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAO
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBRE
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAZ
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SCIZ
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFO
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GOOO
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NTTT
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZWY
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PMDY
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGVA
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZEG
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYR
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:38:29 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 34 кодов ИКАО.
+2024-11-14 22:38:29 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:38:31 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EFIN
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLOV
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ESAA
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EKDK
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFFF
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFBB
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPC
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GMMM
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLLL
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OEJD
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAA
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UGGG
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LBSR
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKFV
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LJLA
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVBG
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMIB
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KOFF
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRD
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGGX
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGPX
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MPZL
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZHU
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MKJK
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TNCF
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFR
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQX
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQM
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EBBU
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EDGG
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EPWW
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGTT
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOR
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EYVL
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EETT
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EVRR
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LWSS
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOB
+2024-11-14 22:38:32 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 43 кодов ИКАО.
+2024-11-14 22:38:32 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:38:34 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ORBB
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIMM
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNHK
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OLBB
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLBG
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLHA
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAC
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAG
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAU
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBA
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPPH
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPAD
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSCB
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSSY
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 22:38:34 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 16 кодов ИКАО.
+2024-11-14 22:39:32 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:39:32 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:39:34 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZWUQ
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKPY
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKKP
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZGZU
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZUXC
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZJSA
+2024-11-14 22:39:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKRR
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RPHI
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFRR
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OJAC
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LGGG
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LZBB
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAD
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KLSV
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSZL
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAB
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDYS
+2024-11-14 22:39:36 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 48 кодов ИКАО.
+2024-11-14 22:39:36 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:39:38 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KRCA
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBAA
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBBB
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBYN
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBPE
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZSHA
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZHWH
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZPKM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZLHW
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPO
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EINN
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EICK
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRK
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIKF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BGBW
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RJJJ
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: FIMM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YMMM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VECF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VABF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HCSM
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OIIX
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OPKR
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SOOO
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KGFA
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBFI
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KCOF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEDW
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEFD
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMCF
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LDZO
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KICZ
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MUFH
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MYNA
+2024-11-14 22:39:39 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 37 кодов ИКАО.
+2024-11-14 22:39:39 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:39:41 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWAL
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWHP
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWRB
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAEI
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KPAM
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNQX
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSHV
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PADQ
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LSAS
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LOVV
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBGL
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNID
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECB
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFMM
+2024-11-14 22:39:41 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIRR
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIBB
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OBBI
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OOMM
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYT
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NZZO
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAO
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBRE
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAZ
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SCIZ
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFO
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GOOO
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NTTT
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZWY
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PMDY
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGVA
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZEG
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYR
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:39:42 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 34 кодов ИКАО.
+2024-11-14 22:39:42 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:39:43 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EFIN
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLOV
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ESAA
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EKDK
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFFF
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFBB
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPC
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GMMM
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLLL
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OEJD
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAA
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UGGG
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LBSR
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKFV
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LJLA
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVBG
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMIB
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KOFF
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRD
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGGX
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGPX
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MPZL
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZHU
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MKJK
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TNCF
+2024-11-14 22:39:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFR
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQX
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQM
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EBBU
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EDGG
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EPWW
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGTT
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOR
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EYVL
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EETT
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EVRR
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LWSS
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOB
+2024-11-14 22:39:45 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 43 кодов ИКАО.
+2024-11-14 22:39:45 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:39:46 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ORBB
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIMM
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNHK
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OLBB
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLBG
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLHA
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAC
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAG
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAU
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBA
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPPH
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPAD
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSCB
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSSY
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 22:39:46 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 16 кодов ИКАО.
+2024-11-14 22:40:59 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:40:59 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:01 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:41:02 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZWUQ
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKPY
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKKP
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZGZU
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZUXC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZJSA
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKRR
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RPHI
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFRR
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OJAC
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LGGG
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LZBB
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAD
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KLSV
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSZL
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAB
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDYS
+2024-11-14 22:41:03 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 48 кодов ИКАО.
+2024-11-14 22:41:03 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:05 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KRCA
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBAA
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBBB
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBYN
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBPE
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZSHA
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZHWH
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZPKM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZLHW
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPO
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EINN
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EICK
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRK
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIKF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BGBW
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RJJJ
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: FIMM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YMMM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VECF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VABF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HCSM
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OIIX
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OPKR
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SOOO
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KGFA
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBFI
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KCOF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEDW
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEFD
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMCF
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LDZO
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KICZ
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MUFH
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MYNA
+2024-11-14 22:41:06 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 37 кодов ИКАО.
+2024-11-14 22:41:06 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:08 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWAL
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWHP
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWRB
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAEI
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KPAM
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNQX
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSHV
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PADQ
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LSAS
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LOVV
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBGL
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNID
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECB
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFMM
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIRR
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIBB
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OBBI
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OOMM
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYT
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NZZO
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAO
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBRE
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAZ
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SCIZ
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFO
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GOOO
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NTTT
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZWY
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PMDY
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGVA
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZEG
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYR
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:41:08 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 34 кодов ИКАО.
+2024-11-14 22:41:08 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:10 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EFIN
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLOV
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ESAA
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EKDK
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFFF
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFBB
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPC
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GMMM
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLLL
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OEJD
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAA
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UGGG
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LBSR
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKFV
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LJLA
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVBG
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMIB
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KOFF
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRD
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGGX
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGPX
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MPZL
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZHU
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MKJK
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TNCF
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFR
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQX
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQM
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EBBU
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EDGG
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EPWW
+2024-11-14 22:41:11 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGTT
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOR
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EYVL
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EETT
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EVRR
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LWSS
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOB
+2024-11-14 22:41:12 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 43 кодов ИКАО.
+2024-11-14 22:41:12 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:13 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ORBB
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIMM
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNHK
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OLBB
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLBG
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLHA
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAC
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAG
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAU
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBA
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPPH
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPAD
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSCB
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSSY
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 22:41:13 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 16 кодов ИКАО.
+2024-11-14 22:41:43 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:41:43 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:41:44 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:41:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:41:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:41:44 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 22:42:31 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:42:31 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:42:32 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:42:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:42:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:42:32 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 22:42:43 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:42:43 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:42:43 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:42:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:42:44 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:42:44 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 22:42:53 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:42:53 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:42:53 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:42:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:42:53 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:42:54 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 22:50:26 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:50:26 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:50:28 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZME
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZID
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZJX
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZKC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAB
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TJZS
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAZA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHNL
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PHZH
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGUA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PGZU
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PKWA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNSI
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBB
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HECC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LCCC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZWUQ
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKPY
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZKKP
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZGZU
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZUXC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZJSA
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKRR
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RPHI
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFRR
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OJAC
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LGGG
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LZBB
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAD
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KLSV
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSZL
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBAB
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDYS
+2024-11-14 22:50:29 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 48 кодов ИКАО.
+2024-11-14 22:50:29 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:50:32 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KRCA
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBAA
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBBB
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBYN
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZBPE
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZSHA
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZHWH
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZPKM
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ZLHW
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPO
+2024-11-14 22:50:32 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECM
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EINN
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EICK
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRK
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIKF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BGBW
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RJJJ
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: FIMM
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YMMM
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VOMM
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VECF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: VABF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: HCSM
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OIIX
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OPKR
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SOOO
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KGFA
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KBFI
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KCOF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEDW
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KEFD
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMCF
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LDZO
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KICZ
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MUFH
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MYNA
+2024-11-14 22:50:33 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 37 кодов ИКАО.
+2024-11-14 22:50:33 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:50:34 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWAL
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWHP
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KWRB
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PAEI
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KPAM
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNQX
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KSHV
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PADQ
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LSAS
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LOVV
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBGL
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNID
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LECB
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFMM
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIRR
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIBB
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OBBI
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OOMM
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYT
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NZZO
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAO
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBRE
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SBAZ
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: SCIZ
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFO
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GOOO
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: NTTT
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZWY
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: PMDY
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGVA
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZEG
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CYYR
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:50:35 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 34 кодов ИКАО.
+2024-11-14 22:50:35 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:50:37 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVPS
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KDTS
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EFIN
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLOV
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ESAA
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EKDK
+2024-11-14 22:50:38 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFFF
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LFBB
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LPPC
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: GMMM
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLLL
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OEJD
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAA
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UGGG
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKOV
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LBSR
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: UKFV
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LJLA
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KVBG
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KMIB
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KOFF
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: BIRD
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGGX
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGPX
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MPZL
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZHU
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MKJK
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: TNCF
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MMFR
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQX
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: CZQM
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EISN
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EHAA
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EBBU
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EDGG
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EPWW
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EGTT
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOR
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EYVL
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EETT
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: EVRR
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LWSS
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ENOB
+2024-11-14 22:50:39 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 43 кодов ИКАО.
+2024-11-14 22:50:39 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:50:40 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: ORBB
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LIMM
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KNHK
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: OLBB
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLBG
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LLHA
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAC
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAG
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTAU
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: LTBA
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPPH
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YPAD
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSCB
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: YSSY
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 22:50:40 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 16 кодов ИКАО.
+2024-11-14 22:54:41 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 22:54:41 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:55:15 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:55:15 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:55:16 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:55:16 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 5 кодов ИКАО.
+2024-11-14 22:56:28 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:56:28 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:56:30 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:56:30 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 14 кодов ИКАО.
+2024-11-14 22:56:58 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 22:56:58 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 22:57:00 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: MHTG
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZDV
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLA
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOA
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAK
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZSE
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMA
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZNY
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZOB
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZAU
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZFW
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZMP
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 22:57:00 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 14 кодов ИКАО.
+2024-11-14 23:01:14 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:01:14 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:01:16 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:01:16 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:08:35 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:08:35 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:25:35 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 23:25:35 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:26:16 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:26:16 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:26:18 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:26:18 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:26:31 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 23:26:31 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:27:32 | ERROR |connect_operations:request_notams:133: - Ошибка подключения 503.
+ Переподключение через {'User-Agent': 'Mozilla/5.0', 'content-type': 'application/x-www-form-urlencoded', 'accept': 'text/html,application/xhtml+xml,application/xml;    q=0.9,image/avif, image/webp,image/apng,*/*;    q=0.8,application/signed-exchange;v=b3;q=0.9'} секунды.
+ Попытка 2 из 5.
+2024-11-14 23:27:32 | ERROR |connect_operations:get_notams:29: -  Ошибка: 'builtin_function_or_method' object has no attribute 'sleep'
+2024-11-14 23:29:11 | INFO |connect_operations:get_request_headers:99: - Сформированы заголовки для запросов.
+2024-11-14 23:29:11 | INFO |connect_operations:request_notams:119: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:29:12 | INFO |connect_operations:request_notams:158: - Ответ от сайта получен..
+2024-11-14 23:29:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 23:29:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 23:29:12 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 23:35:12 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:35:12 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:35:14 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:35:14 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:35:20 | INFO |connect_operations:get_request_headers:103: - Сформированы заголовки для запросов.
+2024-11-14 23:35:20 | INFO |connect_operations:request_notams:123: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:35:21 | INFO |connect_operations:request_notams:162: - Ответ от сайта получен..
+2024-11-14 23:35:21 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 23:35:21 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 23:35:21 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 23:39:05 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:39:05 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:39:08 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:39:08 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:39:11 | INFO |connect_operations:get_request_headers:103: - Сформированы заголовки для запросов.
+2024-11-14 23:39:11 | INFO |connect_operations:request_notams:123: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:39:12 | INFO |connect_operations:request_notams:162: - Ответ от сайта получен..
+2024-11-14 23:39:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZTL
+2024-11-14 23:39:12 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: KZLC
+2024-11-14 23:39:12 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 23:42:05 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:42:05 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:42:09 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:42:09 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:42:25 | INFO |connect_operations:get_request_headers:103: - Сформированы заголовки для запросов.
+2024-11-14 23:42:25 | INFO |connect_operations:request_notams:123: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:42:25 | INFO |connect_operations:request_notams:162: - Ответ от сайта получен..
+2024-11-14 23:42:25 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 23:42:25 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 23:42:25 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 23:43:52 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:43:52 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:49:20 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:49:20 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:49:22 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:49:22 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:49:38 | INFO |connect_operations:get_request_headers:104: - Сформированы заголовки для запросов.
+2024-11-14 23:49:38 | INFO |connect_operations:request_notams:124: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:49:39 | INFO |connect_operations:request_notams:163: - Ответ от сайта получен..
+2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.

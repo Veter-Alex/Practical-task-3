@@ -10,32 +10,32 @@
     <body>
         <div id="header">
             <h1>
-                Главная страница приложение для отслеживания воздушных
-                резервирований.
+                Главная страница приложение для отслеживания резервирований воздушного пространства.
             </h1>
             <!-- Панель навигации в зависимости от имени пользователя -->
             <nav>
                 <ul>
-                    <li><a href="/">Главная страница</a></li>
-                    <li><a href="/settings">Настройки</a></li>
-                    <li><a href="/help">Помощь</a></li>
+                    <li><a href="{{ url_for('index') }}">Главная страница</a></li>
+                    <li><a href="{{ url_for('help') }}">Помощь</a></li>
                 </ul>
             </nav>
         </div>
 
-        <div id="requests-settings">
-            <p>Настройки для запроса:</p>
+        <div id="requests-settings-conteiner">
+            <p>Введите ИКАО коды ЦУВД :</p>
+            <textarea type="text" id="icao-codes-for-request" placeholder="ИКАО коды ЦУВД для запроса,&#10;например:&#10;UKOV LBSR UKFV LJLA KVBG KMIB KOFF BIRD EGGX EGPX MPZL KZHU MKJK SKEG TNCF MMFR CZQX CZQM E66X E6PX E6TT EISN EHAA EBUR EBBU"></textarea>
+            <button id="request-button">Получить данные</button>
         </div>
 
         <div id="notams-conteiner">
-            <p>Резервирования:</p>
+            <p>Резервирования воздушного пространства активные в текущий момент времени:</p>
             <table id="notams-table">
                 <tr>
-                    <th>ЦУВД</th>
-                    <th>Резервирование</th>
-                    <th>Начало резервирования</th>
-                    <th>Конец резервирования</th>
-                    <th>Оригинальный текст</th>
+                    <th id ="th-CUVD">ЦУВД</th>
+                    <th id = "th-name-NOTAM">Резервирование</th>
+                    <th id = "th-start-NOTAM">Начало резервирования</th>
+                    <th id = "th-end-NOTAM">Конец резервирования</th>
+                    <th id = "th-text-NOTAM">Оригинальный текст</th>
                 </tr>
             </table>
         </div>

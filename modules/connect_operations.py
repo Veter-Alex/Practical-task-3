@@ -3,7 +3,6 @@ from time import time
 import requests
 from dotenv import load_dotenv
 from modules.error import DBError, FileError, NetworkError, ParserError
-from modules.file_operations import get_icao_list
 from modules.logger_settings import logger
 from modules.parser_global import parser_notams_answer
 from modules.variables import (
@@ -17,31 +16,27 @@ from modules.variables import (
 load_dotenv()
 
 
-def get_notams():
+def get_notams(icao_codes):  # sourcery skip: dict-assign-update-to-union
+    dict_notams = {}
     try:
         # Формируем заголовки для запросов со списками  ЦУВДов
-        data_request_headers = get_request_headers()
-        for data_request_header in data_request_headers:
+        for data_request_header in get_request_headers(icao_codes):
             # Запрос резервирований для списка ЦУВД
             text_notams_answer = request_notams(data_request_header).text
-
-            # Парсим текст ответа от сайта,
-            #  выделяем текст резервирований
-            notams = parser_notams_answer(text_notams_answer)
-            # Добавляем записи в базу данных
-            # db_operations.add_notams_to_db(notams)
-            return notams
-    except DBError as err:
-        logger.error(err)
-    except ParserError as err:
-        logger.error(err)
-    except NetworkError as err:
+            dict_notams.update(parser_notams_answer(text_notams_answer))
+        for item in dict_notams:
+            for i in range(len(dict_notams[item])):
+                dict_notams[item][i] = dict_notams[item][i].replace(
+                    "US", "!!!!!"
+                )
+        return dict_notams
+    except (DBError, ParserError, NetworkError) as err:
         logger.error(err)
     except FileError as err:
         logger.error(err)
 
 
-def chunks(lst: list[str], chunk_size: int = 50) -> list[list[str]]:
+def chunks(icao_codes: list[str], chunk_size: int = 50) -> list[list[str]]:
     """
     Функция делит список lst на части по количеству элементов указанных
         в chunk_size
@@ -60,10 +55,13 @@ def chunks(lst: list[str], chunk_size: int = 50) -> list[list[str]]:
         [['MHTG', 'KZDV', 'KZLA'], ['KZOA', 'KZAK', 'KZSE'], ['KZMA',
         'KZNY', 'KZOB'], ['KZAU', 'KZFW', 'KZAN'], ['KZMP', 'KZTL']]
     """
-    return [lst[i : i + chunk_size] for i in range(0, len(lst), chunk_size)]
+    return [
+        icao_codes[i : i + chunk_size]
+        for i in range(0, len(icao_codes), chunk_size)
+    ]
 
 
-def get_request_headers() -> list[list[type[str]]]:
+def get_request_headers(icao_codes) -> list[list[type[str]]]:
     """
     Функция формирует заголовки для запросов.
 
@@ -89,7 +87,7 @@ def get_request_headers() -> list[list[type[str]]]:
     try:
         request_headers = []  # список заголовков
         request_header = [str]  # заголовок
-        for chunk in chunks(get_icao_list(), ARTCC_LIST_LIMIT):
+        for chunk in chunks(icao_codes, ARTCC_LIST_LIMIT):
             request_header = [
                 ("reportType", "Report"),
                 ("retrieveLocId", " ".join(chunk)),

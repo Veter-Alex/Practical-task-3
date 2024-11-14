@@ -250,43 +250,17 @@ def glue_notams(values: list[str]) -> list[str]:
     return values
 
 
-def notam_to_one_line(file) -> list[str]:
-    with open(file, encoding="utf8", errors="ignore") as f:
-        list_strings = []
-        temp_string = ""
-        for string_notam in f:
-            if search(REGEX_CREATE, string_notam):
-                temp_string = f"{temp_string}{string_notam}"
-                temp_string = sub("\n", "", temp_string)
-                list_strings.append(temp_string)
-                temp_string = ""
-            elif string_notam == "\n":
-                if search(REGEX_CREATE, temp_string):
-                    temp_string = sub("\n", "", temp_string)
-                    list_strings.append(temp_string)
-                temp_string = ""
-            else:
-                temp_string = f"{temp_string}{string_notam}"
-    return list_strings
-
-
 def parser_notams_answer(
     text_notams_answer: str,
 ) -> dict[str, list[str]]:
     """
-    Parse the text answer from the website and extract reservations.
+    Фугкция парсит ответ от сайта и выделяет резервирования.
 
     Args:
-        text_notams_answer (str): The text answer from the website
-            containing reservations.
-
-    Raises:
-        ParserError: If there is an error parsing the answer.
+        text_notams_answer (str): ответ от сайта
 
     Returns:
-        dict[str, list[str]]: A dictionary where the keys are the names
-            of the reservations and the values are lists of reservations
-            for each name.
+        dict[str, list[str]]: Словарь, в котором ключ - ИКАО код ЦУВД, а значение - список резервирований.
     """
     try:
         # Parse the answer using BeautifulSoup
@@ -307,7 +281,7 @@ def parser_notams_answer(
                 id_k = table.find("td", class_="textBlack12").input["id"]
 
                 # Log the ID
-                logger.info(f"Getting reservations for ID: {id_k}")
+                logger.info(f"Получение резервирований для ИКАО кода: {id_k}")
 
                 # Extract the reservations for the ID
                 values = [
@@ -325,14 +299,13 @@ def parser_notams_answer(
     except Exception as err:
         # Raise an error if there is an exception
         raise ParserError(
-            f"Error parsing the answer from the website with NOTAMs.\n"
-            f"Error: {err}"
+            f"Ошибка при разборе ответа с веб-сайта.\n" f"Error: {err}"
         ) from err
     else:
         # Log the number of reservations found
         logger.info(
-            f"Parsing complete. "
-            f"Found {len(notams.values())} entries for analysis."
+            f"Разбор завершен. "
+            f"Найдены резервирования для {len(notams.values())} кодов ИКАО."
         )
         return notams
 

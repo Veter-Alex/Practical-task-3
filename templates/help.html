@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Настройки</title>
+        <link rel="stylesheet" href="/static/css/style.css" />
+    </head>
+    <body>
+        <div id="header">
+            <h1>Помощь</h1>
+            <nav>
+                <ul>
+                    <li><a href="{{ url_for('index') }}">Главная страница</a></li>
+                    <li><a href="{{ url_for('help') }}">Помощь</a></li>
+                </ul>
+            </nav>
+            <div id="help-content">
+                <div styyle="margin-top: 20px;">
+                <p>Индекс (указатель) местоположения ИКАО — четырёхбуквенный уникальный индивидуальный идентификатор, составляемый в соответствии с правилами Международной организации гражданской авиации (ИКАО), присваиваемый для обозначения географических мест, где расположена станция авиационной фиксированной службы, обеспечивающая связь между фиксированными пунктами и предназначенная для обеспечения безопасности аэронавигации, регулярности, эффективности и экономичности воздушных сообщений[1].</p>
+                <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%9A%D0%90%D0%9E">Источник</a>
+                </div>
+                <div style="margin-top: 20px;">
+                <p>Коды ИКАО для авиационных аэропортов по странам</p>
+                <a href="https://ru.wikipedia.org/wiki/Проект:Авиация/Списки/Список_аэропортов_по_странам">Источник</a>
+                </div>
+                <div style="margin-top: 20px;">
+                <p>Для тестирования скопируйте строку ниже:</p>
+                <p style="font-weight: bold;">MHTG KZDV KZLA KZOA KZAK KZSE KZMA KZNY KZOB KZAU KZFW KZAN KZMP KZTL KZLC</p>
+                <p>MHTG - Москва</p>
+                <p>KZDV - Казань</p>
+                <p>KZLA - Калининград</p>
+                <p>KZOA - Краснодар</p>
+                <p>KZAK - Астрахань</p>
+                <p>KZSE - Севастополь</p>
+                <p>KZMA - Махачкала</p>
+                <p>KZNY - Нижний Новгород</p>
+                <p>KZOB - Обнинск</p>
+                <p>KZAU - Алушта</p>
+                <p>KZFW - Феодосия</p>
+                <p>KZAN - Анапа</p>
+                <p>KZMP - Майкоп</p>
+                <p>KZTL - Тула</p>
+                <p>KZLC - Ленинград</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,7 +1,18 @@
 function get_notams() {
+    const icaoCodes = document
+        .getElementById("icao-codes-for-request")
+        .value.split(" ");
+    const url = "/get_notams";
+    const data = { icaoCodes: icaoCodes };
     const notams_list = [];
 
-    fetch("/get_notams")
+    fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+    })
         .then((response) => {
             if (!response.ok) {
                 throw new Error("Network response was not ok");
@@ -28,4 +39,8 @@ function get_notams() {
         });
 }
 
-get_notams();
+document.addEventListener("DOMContentLoaded", function () {
+    document
+        .getElementById("request-button")
+        .addEventListener("click", get_notams);
+});

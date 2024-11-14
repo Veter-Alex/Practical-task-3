@@ -19,16 +19,12 @@ load_dotenv()
 def get_notams(icao_codes):  # sourcery skip: dict-assign-update-to-union
     dict_notams = {}
     try:
-        # Формируем заголовки для запросов со списками  ЦУВДов
+        # Формируем заголовки для запросов со списками ЦУВДов
         for data_request_header in get_request_headers(icao_codes):
             # Запрос резервирований для списка ЦУВД
             text_notams_answer = request_notams(data_request_header).text
+            # Парсим ответ
             dict_notams.update(parser_notams_answer(text_notams_answer))
-        for item in dict_notams:
-            for i in range(len(dict_notams[item])):
-                dict_notams[item][i] = dict_notams[item][i].replace(
-                    "US", "!!!!!"
-                )
         return dict_notams
     except (DBError, ParserError, NetworkError) as err:
         logger.error(err)

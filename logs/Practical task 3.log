@@ -1721,3 +1721,12 @@
 2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
 2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
 2024-11-14 23:49:39 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
+2024-11-14 23:50:45 | INFO |variables:<module>:34: - Установлен режим парсинга ответа от сайта.
+
+2024-11-14 23:50:45 | INFO |variables:<module>:166: - Адрес сайта для запросов: https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:50:48 | INFO |connect_operations:get_request_headers:104: - Сформированы заголовки для запросов.
+2024-11-14 23:50:48 | INFO |connect_operations:request_notams:124: - Выполняется запрос на сайт https://www.notams.faa.gov/dinsQueryWeb/queryRetrievalMapAction.do
+2024-11-14 23:50:50 | INFO |connect_operations:request_notams:163: - Ответ от сайта получен..
+2024-11-14 23:50:50 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKJJ
+2024-11-14 23:50:50 | INFO |parser_global:parser_notams_answer:284: - Получение резервирований для ИКАО кода: RKPK
+2024-11-14 23:50:50 | INFO |parser_global:parser_notams_answer:306: - Разбор завершен. Найдены резервирования для 2 кодов ИКАО.
